@@ -8,4 +8,5 @@
 | [0178-rank-scores](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0178-rank-scores) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1321-restaurant-growth) |
+| [1907-count-salary-categories](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
