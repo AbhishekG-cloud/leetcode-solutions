@@ -10,5 +10,6 @@
 | [1321-restaurant-growth](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1907-count-salary-categories](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1907-count-salary-categories) |
 | [3421-find-students-who-improved](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
