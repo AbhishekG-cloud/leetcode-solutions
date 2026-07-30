@@ -8,6 +8,7 @@
 | [0178-rank-scores](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
 | [0595-big-countries](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
