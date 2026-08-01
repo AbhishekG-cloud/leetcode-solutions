@@ -12,6 +12,7 @@
 | [0585-investments-in-2016](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
