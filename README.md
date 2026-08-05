@@ -25,4 +25,20 @@
 | [3421-find-students-who-improved](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/3497-analyze-subscription-conversion) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
