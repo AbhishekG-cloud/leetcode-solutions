@@ -26,6 +26,7 @@
 | [1084-sales-analysis-iii](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1084-sales-analysis-iii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1321-restaurant-growth) |
+| [1393-capital-gainloss](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1907-count-salary-categories](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/1907-count-salary-categories) |
