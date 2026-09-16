@@ -55,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +110,16 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0071-simplify-path) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
