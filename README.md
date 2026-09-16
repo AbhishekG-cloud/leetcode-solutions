@@ -53,6 +53,7 @@
 | [0014-longest-common-prefix](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
