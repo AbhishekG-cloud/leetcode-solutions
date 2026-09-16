@@ -54,10 +54,12 @@
 | [0043-multiply-strings](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0072-edit-distance) |
 ## Manacher
 |  |
 | ------- |
