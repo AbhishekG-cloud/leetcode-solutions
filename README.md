@@ -51,6 +51,7 @@
 | [0006-zigzag-conversion](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/AbhishekG-cloud/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
